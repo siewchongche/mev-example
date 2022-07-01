@@ -1,5 +1,11 @@
-Date | Branch | Link
---- | --- | ---
-2021-11-12 | jit20211112 | https://twitter.com/bertcmiller/status/1459175384793157648
-2021-08-24 | flashswap210824 | https://twitter.com/bertcmiller/status/1430169143123353611
-2022-05-21 | curve20220521 | https://twitter.com/bertcmiller/status/1527757146716348416
+## Twitter
+
+https://twitter.com/bertcmiller/status/1524700049007128578
+
+## Test 1
+
+> forge test --fork-url https://arb-mainnet.g.alchemy.com/v2/<ALCHEMY_KEY> --fork-block-number 11887028 --match-contract Arb1Test
+
+## Test 2
+
+> forge test --fork-url https://arb-mainnet.g.alchemy.com/v2/<ALCHEMY_KEY> --fork-block-number 11887030 --match-contract Arb2Test
